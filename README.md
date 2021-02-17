@@ -7,3 +7,4 @@ This is the software I use in Linux enviroments. It might, or might not, have an
 * Install homebrew
 * Install nvm (from homebrew)
 * Log in to Chrome for bookmarks
+* Add SSH-key to Bitbucket
